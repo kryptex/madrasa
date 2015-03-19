@@ -1,0 +1,1 @@
+Madrasa is an open source Student Information System (SIS) written in PHP and based on the CakePHP web application framework.
